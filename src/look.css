@@ -1,0 +1,14 @@
+#container{
+
+	background-color: red;
+	width: 50%;
+	margin: auto;
+}
+#header{
+	text-align: center;
+}
+#eingabe{
+	float: right;
+	margin-right: 35%;
+	
+}
