@@ -7,10 +7,9 @@
 #header{
 	text-align: center;
 }
-#eingabe{
+.eingabe{
 	float: right;
-	margin-right: 35%;
-	
+	margin-right: 20%;	
 }
 
 #label{

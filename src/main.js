@@ -1,4 +1,3 @@
 function berechnen(){
-	document.getElementByID("satz").innerHTML = "poui";
-	
+	document.getElementById("eingabe").style.color = "red";
 }
